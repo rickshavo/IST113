@@ -18,7 +18,7 @@ function runOther() {
 */
 function runPrompt() {
 	let response = prompt("What is your name?");
-	console.log(response + " just entered their name");
+	console.log(response + " just entered his name");
 }
 
 /*
